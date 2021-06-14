@@ -1,2 +1,0 @@
-# CakeShop
-Developed by subiksha
